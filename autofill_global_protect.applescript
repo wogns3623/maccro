@@ -1,5 +1,3 @@
-set myTarget to "Name"
-set backoffInitial to 0.5
 set searchQuery to "hanyang.ac.kr"
 
 tell application "System Events"
@@ -13,10 +11,8 @@ tell application "System Events"
             if exists static text "연결 해제됨" then
                 click button "연결"
                 
-                set i to backoffInitial
                 repeat until exists text field 2
-                    delay i
-                    set i to i + i
+                    delay 0.1
                 end repeat
             end if
             
