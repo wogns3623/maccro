@@ -23,11 +23,11 @@ tell application "System Events"
 	-- delay 0.1
 	-- keystroke (ASCII character 31) & return
 	delay 2
-	keystroke (ASCII character 31)
-	delay 2
+	-- keystroke (ASCII character 31)
+	-- delay 2
 	
 	set UIHierarchy to my TraverseUIElements(mainApplication, 0, 5)
-	do shell script "echo \"" & UIHierarchy & "\" > ~/hierarchy.txt"
+	do shell script "echo \"" & UIHierarchy & "\" > \"./"&targName&".hierarchy.txt\""
 end tell
 
 on indent(theCharacter, maxLength)

@@ -1,0 +1,325 @@
+- (window 1)
+  attributes: [AXFocused, AXFullScreen, AXTitle, AXChildrenInNavigationOrder, AXFrame, AXPosition, AXGrowArea, AXMinimizeButton, AXDocument, AXSections, AXCloseButton, AXMain, AXActivationPoint, AXFullScreenButton, AXProxy, AXDefaultButton, AXMinimized, AXChildren, AXRole, AXParent, AXTitleUIElement, AXCancelButton, AXModal, AXSubrole, AXZoomButton, AXRoleDescription, AXSize, AXToolbarButton, AXIdentifier]
+  properties: [missing value, missing value, 1094, 320, window, missing value, 윈도우, false, , 61, 37, missing value, , missing value, missing value, AXWindow, missing value, AXUnknown, missing value, missing value, 윈도우]
+  - missing value(scroll area 1)
+    attributes: [AXHorizontalScrollBar, AXFrame, AXMakeScreenRectVisible, AXParent, AXChildren, AXFocused, AXSize, AXRole, AXTopLevelUIElement, AXHelp, AXChildrenInNavigationOrder, AXPosition, AXWindow, AXRoleDescription, AXVerticalScrollBar, AXContents, AXIdentifier]
+    properties: [missing value, missing value, 1094, 327, scroll area, missing value, 스크롤 영역, false, missing value, 61, 23, missing value, , missing value, missing value, AXScrollArea, missing value, missing value, missing value, missing value, 스크롤 영역]
+    - missing value(table 1)
+      attributes: [AXFocused, AXChildrenInNavigationOrder, AXFrame, AXHeader, AXPosition, AXEnabled, AXSelectedCells, AXSelectedColumns, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXRows, AXVisibleRows, AXSelectedRows, AXColumns, AXDescription, AXVisibleColumns, AXRoleDescription, AXSize, AXIdentifier, AXWindow]
+      properties: [missing value, missing value, 1093, 326, table, 1개의 결과 자동 완성, 표, true, missing value, 63, 25, missing value, , true, missing value, AXTable, missing value, missing value, missing value, missing value, 1개의 결과 자동 완성]
+      - missing value(row 1)
+        attributes: [AXIndex, AXCustomActions, AXVisibleChildren, AXParent, AXChildren, AXSize, AXRole, AXTopLevelUIElement, AXPosition, AXChildrenInNavigationOrder, AXWindow, AXRoleDescription, AXSubrole, AXSelected, AXFrame]
+        properties: [missing value, missing value, 1094, 327, row, missing value, 표 행, missing value, missing value, 61, 22, missing value, , missing value, missing value, AXRow, missing value, AXTableRow, false, missing value, 표 행]
+        - 암호…(UI element 1)
+          attributes: [AXRowIndexRange, AXCustomActions, AXEnabled, AXDescription, AXParent, AXChildren, AXSize, AXFocused, AXColumnIndexRange, AXRole, AXTitleUIElement, AXTopLevelUIElement, AXPosition, AXChildrenInNavigationOrder, AXWindow, AXRoleDescription, AXSelected, AXScrollToVisible, AXFrame]
+          properties: [missing value, missing value, 1108, 327, UI element, missing value, 셀, true, missing value, 33, 22, missing value, , true, missing value, AXCell, missing value, missing value, false, 암호…, 셀]
+          - 암호…(static text 1)
+            attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow, AXIdentifier]
+            properties: [missing value, missing value, 1107, 329, static text, missing value, 텍스트, false, missing value, 35, 18, missing value, , true, missing value, AXStaticText, 암호…, missing value, missing value, 암호…, 텍스트]
+      - missing value(column 2)
+        attributes: [AXIdentifier, AXIndex, AXVisibleRows, AXParent, AXSize, AXRows, AXRole, AXHeader, AXTopLevelUIElement, AXPosition, AXWindow, AXRoleDescription, AXSelected, AXFrame]
+        properties: [missing value, missing value, 1094, 327, column, missing value, 열, missing value, missing value, 61, 23, missing value, , missing value, missing value, AXColumn, missing value, missing value, false, missing value, 열]
+- (window 2)
+  attributes: [AXFocused, AXFullScreen, AXTitle, AXChildrenInNavigationOrder, AXFrame, AXPosition, AXGrowArea, AXMinimizeButton, AXDocument, AXSections, AXCloseButton, AXMain, AXActivationPoint, AXFullScreenButton, AXProxy, AXDefaultButton, AXMinimized, AXChildren, AXRole, AXParent, AXTitleUIElement, AXCancelButton, AXModal, AXSubrole, AXZoomButton, AXRoleDescription, AXSize, AXToolbarButton]
+  properties: [missing value, missing value, 1067, 39, window, missing value, 시스템 대화상자, false, , 260, 362, missing value, , missing value, missing value, AXWindow, missing value, AXSystemDialog, missing value, missing value, 시스템 대화상자]
+  - missing value(image 1)
+    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1052, 46, image, Panel Background Image Dark, 이미지, false, missing value, 290, 151, missing value, , true, missing value, AXImage, missing value, missing value, missing value, missing value, Panel Background Image Dark]
+  - Palo Alto Networks GlobalProtect(image 2)
+    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1082, 54, image, , 이미지, false, Palo Alto Networks GlobalProtect, 196, 21, missing value, , true, missing value, AXImage, missing value, missing value, missing value, Palo Alto Networks GlobalProtect, ]
+  - Global Protect Options Menu(button 3)
+    attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1294, 52, button, missing value, 버튼, false, Global Protect Options Menu, 26, 26, missing value, , false, missing value, AXButton, missing value, missing value, missing value, Global Protect Options Menu, 버튼]
+  - missing value(image 4)
+    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1052, 46, image, Panel Background Image Dark, 이미지, false, missing value, 290, 151, missing value, , true, missing value, AXImage, missing value, missing value, missing value, missing value, Panel Background Image Dark]
+  - GlobalProtect(image 5)
+    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1159, 92, image, , 이미지, false, GlobalProtect, 75, 75, missing value, , true, missing value, AXImage, missing value, missing value, missing value, GlobalProtect, ]
+  - Enter login credentials(static text 6)
+    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
+    properties: [missing value, missing value, 1096, 173, static text, missing value, 텍스트, false, missing value, 202, 17, missing value, , true, missing value, AXStaticText, Enter login credentials, missing value, missing value, Enter login credentials, 텍스트]
+  - Username:(static text 7)
+    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
+    properties: [missing value, missing value, 1096, 204, static text, missing value, 텍스트, false, missing value, 202, 17, missing value, , true, missing value, AXStaticText, Username:, missing value, missing value, Username:, 텍스트]
+  - missing value(text field 8)
+    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
+    properties: [missing value, missing value, 1100, 234, text field, missing value, 텍스트 필드, false, missing value, 194, 20, missing value, , true, missing value, AXTextField, wogns3623, missing value, missing value, missing value, 텍스트 필드]
+  - Password:(static text 9)
+    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
+    properties: [missing value, missing value, 1096, 267, static text, missing value, 텍스트, false, missing value, 202, 17, missing value, , true, missing value, AXStaticText, Password:, missing value, missing value, Password:, 텍스트]
+  - missing value(text field 10)
+    attributes: [AXSelectedTextRange, AXEnabled, AXValueDescription, AXFrame, AXParent, AXSize, AXFocused, AXChildren, AXPlaceholderValue, AXRole, AXTopLevelUIElement, AXHelp, AXValue, AXPosition, AXWindow, AXRoleDescription, AXChildrenInNavigationOrder, AXSubrole]
+    properties: [missing value, missing value, 1100, 298, text field, missing value, 보안 텍스트 필드, true, missing value, 194, 17, missing value, , true, missing value, AXTextField, , AXSecureTextField, missing value, missing value, 보안 텍스트 필드]
+  - 연결(button 11)
+    attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1096, 330, button, missing value, 버튼, false, 연결, 202, 34, missing value, , true, missing value, AXButton, missing value, missing value, missing value, 연결, 버튼]
+  - missing value(button 12)
+    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXWindow, AXRoleDescription]
+    properties: [missing value, missing value, 1185, 372, button, 도움말, 버튼, false, missing value, 24, 18, missing value, , true, missing value, AXButton, missing value, missing value, missing value, missing value, 도움말]
+- missing value(menu bar 3)
+  attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition, AXIdentifier]
+  properties: [missing value, missing value, 0, 0, menu bar, missing value, missing value, missing value, missing value, 1512, 37, missing value, , true, missing value, AXMenuBar, missing value, missing value, missing value, missing value, missing value]
+  - Apple(menu bar item 1)
+    attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+    properties: [missing value, missing value, 0, 37, menu bar item, missing value, missing value, missing value, Apple, 0, 0, missing value, , true, missing value, AXMenuBarItem, missing value, missing value, false, Apple, missing value]
+    - Apple(menu 1)
+      attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition]
+      properties: [missing value, missing value, 0, 982, menu, missing value, missing value, missing value, missing value, 0, 0, missing value, , true, missing value, AXMenu, missing value, missing value, missing value, Apple, missing value]
+      - 이 Mac에 관하여(menu item 1)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 이 Mac에 관하여, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 이 Mac에 관하여, missing value]
+      - 시스템 정보(menu item 2)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 시스템 정보, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 시스템 정보, missing value]
+      - missing value(menu item 3)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 시스템 설정…, 업데이트 1개(menu item 4)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 시스템 설정…, 업데이트 1개, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 시스템 설정…, 업데이트 1개, missing value]
+      - App Store…, 업데이트 13개(menu item 5)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, App Store…, 업데이트 13개, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, App Store…, 업데이트 13개, missing value]
+      - missing value(menu item 6)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 최근 사용 항목(menu item 7)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 최근 사용 항목, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 최근 사용 항목, missing value]
+        - 최근 사용 항목(menu 1)
+          attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition]
+          properties: [missing value, missing value, 0, 982, menu, missing value, missing value, missing value, missing value, 0, 0, missing value, , true, missing value, AXMenu, missing value, missing value, missing value, 최근 사용 항목, missing value]
+          - 응용 프로그램(menu item 1)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 응용 프로그램, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, 응용 프로그램, missing value]
+          - 시스템 설정.app(menu item 2)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 시스템 설정.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 시스템 설정.app, missing value]
+          - Finder에서 ‘시스템 설정.app’ 보기(menu item 3)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘시스템 설정.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘시스템 설정.app’ 보기, missing value]
+          - 아카이브 유틸리티.app(menu item 4)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 아카이브 유틸리티.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 아카이브 유틸리티.app, missing value]
+          - Finder에서 ‘아카이브 유틸리티.app’ 보기(menu item 5)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘아카이브 유틸리티.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘아카이브 유틸리티.app’ 보기, missing value]
+          - 암호.app(menu item 6)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 암호.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 암호.app, missing value]
+          - Finder에서 ‘암호.app’ 보기(menu item 7)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘암호.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘암호.app’ 보기, missing value]
+          - 활성 상태 보기.app(menu item 8)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 활성 상태 보기.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 활성 상태 보기.app, missing value]
+          - Finder에서 ‘활성 상태 보기.app’ 보기(menu item 9)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘활성 상태 보기.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘활성 상태 보기.app’ 보기, missing value]
+          - Accessibility Inspector.app(menu item 10)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Accessibility Inspector.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Accessibility Inspector.app, missing value]
+          - Finder에서 ‘Accessibility Inspector.app’ 보기(menu item 11)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Accessibility Inspector.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Accessibility Inspector.app’ 보기, missing value]
+          - AdGuard.app(menu item 12)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, AdGuard.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, AdGuard.app, missing value]
+          - Finder에서 ‘AdGuard.app’ 보기(menu item 13)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘AdGuard.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘AdGuard.app’ 보기, missing value]
+          - Automator.app(menu item 14)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Automator.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Automator.app, missing value]
+          - Finder에서 ‘Automator.app’ 보기(menu item 15)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Automator.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Automator.app’ 보기, missing value]
+          - Google Chrome.app(menu item 16)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Google Chrome.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Google Chrome.app, missing value]
+          - Finder에서 ‘Google Chrome.app’ 보기(menu item 17)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Google Chrome.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Google Chrome.app’ 보기, missing value]
+          - iTerm.app(menu item 18)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, iTerm.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, iTerm.app, missing value]
+          - Finder에서 ‘iTerm.app’ 보기(menu item 19)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘iTerm.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘iTerm.app’ 보기, missing value]
+          - Visual Studio Code.app(menu item 20)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Visual Studio Code.app, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Visual Studio Code.app, missing value]
+          - Finder에서 ‘Visual Studio Code.app’ 보기(menu item 21)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Visual Studio Code.app’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Visual Studio Code.app’ 보기, missing value]
+          - missing value(menu item 22)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+          - 문서(menu item 23)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 문서, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, 문서, missing value]
+          - 34027.py(menu item 24)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 34027.py, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 34027.py, missing value]
+          - Finder에서 ‘34027.py’ 보기(menu item 25)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘34027.py’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘34027.py’ 보기, missing value]
+          - analysisHierarchy.workflow(menu item 26)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, analysisHierarchy.workflow, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, analysisHierarchy.workflow, missing value]
+          - Finder에서 ‘analysisHierarchy.workflow’ 보기(menu item 27)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘analysisHierarchy.workflow’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘analysisHierarchy.workflow’ 보기, missing value]
+          - Back-end(menu item 28)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Back-end, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Back-end, missing value]
+          - Finder에서 ‘Back-end’ 보기(menu item 29)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Back-end’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Back-end’ 보기, missing value]
+          - boj(menu item 30)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, boj, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, boj, missing value]
+          - Finder에서 ‘boj’ 보기(menu item 31)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘boj’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘boj’ 보기, missing value]
+          - hierarchy.txt(menu item 32)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, hierarchy.txt, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, hierarchy.txt, missing value]
+          - Finder에서 ‘hierarchy.txt’ 보기(menu item 33)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘hierarchy.txt’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘hierarchy.txt’ 보기, missing value]
+          - maccro(menu item 34)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, maccro, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, maccro, missing value]
+          - Finder에서 ‘maccro’ 보기(menu item 35)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘maccro’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘maccro’ 보기, missing value]
+          - nk-lms(menu item 36)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, nk-lms, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, nk-lms, missing value]
+          - Finder에서 ‘nk-lms’ 보기(menu item 37)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘nk-lms’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘nk-lms’ 보기, missing value]
+          - Preferences(menu item 38)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Preferences, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Preferences, missing value]
+          - Finder에서 ‘Preferences’ 보기(menu item 39)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘Preferences’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘Preferences’ 보기, missing value]
+          - RLQ(menu item 40)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, RLQ, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, RLQ, missing value]
+          - Finder에서 ‘RLQ’ 보기(menu item 41)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘RLQ’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘RLQ’ 보기, missing value]
+          - test(menu item 42)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, test, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, test, missing value]
+          - Finder에서 ‘test’ 보기(menu item 43)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Finder에서 ‘test’ 보기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Finder에서 ‘test’ 보기, missing value]
+          - missing value(menu item 44)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+          - 서버(menu item 45)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 서버, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, 서버, missing value]
+          - Macintosh HD(menu item 46)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Macintosh HD, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Macintosh HD, missing value]
+          - missing value(menu item 47)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+          - 메뉴 지우기(menu item 48)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 메뉴 지우기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 메뉴 지우기, missing value]
+      - missing value(menu item 8)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 강제 종료...(menu item 9)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 강제 종료..., 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 강제 종료..., missing value]
+      - GlobalProtect 강제 종료(menu item 10)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, GlobalProtect 강제 종료, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, GlobalProtect 강제 종료, missing value]
+      - missing value(menu item 11)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 잠자기(menu item 12)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 잠자기, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 잠자기, missing value]
+      - 재시동…(menu item 13)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 재시동…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 재시동…, missing value]
+      - 재시동(menu item 14)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 재시동, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 재시동, missing value]
+      - 시스템 종료…(menu item 15)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 시스템 종료…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 시스템 종료…, missing value]
+      - 시스템 종료(menu item 16)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 시스템 종료, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 시스템 종료, missing value]
+      - missing value(menu item 17)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 잠금 화면(menu item 18)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 잠금 화면, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 잠금 화면, missing value]
+      - Jaehun Kim 로그아웃…(menu item 19)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Jaehun Kim 로그아웃…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Jaehun Kim 로그아웃…, missing value]
+      - Jaehun Kim 로그아웃(menu item 20)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Jaehun Kim 로그아웃, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Jaehun Kim 로그아웃, missing value]
+      - missing value(menu item 21)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+  - GlobalProtect(menu bar item 2)
+    attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+    properties: [missing value, missing value, 0, 37, menu bar item, missing value, missing value, missing value, GlobalProtect, 0, 0, missing value, , true, missing value, AXMenuBarItem, missing value, missing value, false, GlobalProtect, missing value]
+    - GlobalProtect(menu 1)
+      attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition, AXIdentifier]
+      properties: [missing value, missing value, 0, 982, menu, missing value, missing value, missing value, missing value, 0, 0, missing value, , true, missing value, AXMenu, missing value, missing value, missing value, GlobalProtect, missing value]
+      - Cut(menu item 1)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Cut, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Cut, missing value]
+      - Copy(menu item 2)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Copy, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Copy, missing value]
+      - Paste(menu item 3)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Paste, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Paste, missing value]
+      - Select All(menu item 4)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Select All, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Select All, missing value]
+      - missing value(menu item 5)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
+      - 자동 완성(menu item 6)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 자동 완성, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 자동 완성, missing value]
+        - 자동 완성(menu 1)
+          attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition]
+          properties: [missing value, missing value, 0, 982, menu, missing value, missing value, missing value, missing value, 0, 0, missing value, , true, missing value, AXMenu, missing value, missing value, missing value, 자동 완성, missing value]
+          - 연락처…(menu item 1)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 연락처…, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, 연락처…, missing value]
+          - 암호…(menu item 2)
+            attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 암호…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 암호…, missing value]
+      - 받아쓰기 시작(menu item 7)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 받아쓰기 시작, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, 받아쓰기 시작, missing value]
+      - 이모티콘 및 기호(menu item 8)
+        attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, 이모티콘 및 기호, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, 이모티콘 및 기호, missing value]
+- missing value(menu bar 4)
+  attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXVisibleChildren, AXRoleDescription, AXFrame, AXFocused, AXParent, AXPosition]
+  properties: [missing value, missing value, 1178, 6, menu bar, missing value, 메뉴 막대, false, missing value, 38, 24, missing value, , true, missing value, AXMenuBar, missing value, missing value, missing value, missing value, 메뉴 막대]
+  - missing value(menu bar item 1)
+    attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXChildren, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription, AXSelected, AXSubrole]
+    properties: [missing value, missing value, 1178, 6, menu bar item, missing value, 상태 메뉴, false, , 38, 24, 연결 중..., , true, missing value, AXMenuBarItem, missing value, AXMenuExtra, false, missing value, 상태 메뉴]
+
