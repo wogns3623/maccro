@@ -1,4 +1,8 @@
 on run {searchQuery}
+	set SystemLanguage to do shell script "defaults read .GlobalPreferences AppleLanguages | tr -d '[:space:]()' | cut -c2-3"
+	set translations to {en: {textDisconnected: "Disconnected",textVerificationCode: "Verification code",buttonConnect: "Connect",buttonVerify: "Verify"}, ko: {textDisconnected: "연결 해제됨",textVerificationCode: "인증 코드",buttonConnect: "연결",buttonVerify: "확인"}}
+	set tl to getProperTranslation(translations, SystemLanguage)
+
 	tell application "System Events"
 		tell process "GlobalProtect"
 			click menu bar item 1 of menu bar 2
@@ -7,8 +11,8 @@ on run {searchQuery}
 				delay 0.1
 			end repeat
 			tell (first window whose subrole is "AXSystemDialog")
-				if exists static text "연결 해제됨" then
-					click button "연결"
+				if exists static text (textDisconnected of tl) then
+					click button (buttonConnect of tl)
 					
 					repeat until exists text field 2
 						delay 0.1
@@ -58,16 +62,43 @@ on run {searchQuery}
 				keystroke tab & (ASCII character 31) & return
 				
 				delay 0.5
-				click button "연결"
+				click button (buttonConnect of tl)
 				
-				repeat until ((static text "인증 코드") exists)
+				repeat until ((static text (textVerificationCode of tl)) exists)
 					delay 0.1
 				end repeat
 				set value of text field 1 to otpCode
-				click button "확인"
+				click button (buttonVerify of tl)
 			end tell
 		end tell
 		
 		tell application "System Settings" to quit
 	end tell
 end run
+
+on getProperTranslation(translations, lang)
+    script inner
+        property parent : a reference to current application
+        use framework "Foundation"
+        on getProperTranslation(translations, lang)
+            set dict to current application's NSDictionary's dictionaryWithDictionary:translations
+
+            set tl to missing value
+            repeat with l in dict's allKeys()
+                if lang is l as text then
+                    set tl to (dict's valueForKey:l) as record
+                    exit repeat
+                end if
+            end repeat
+
+            -- fallback
+            if tl is missing value then
+                set tl to (dict's valueForKey:"en") as record
+            end if
+
+            return tl
+        end getProperTranslation
+    end script
+
+    return inner's getProperTranslation(translations, lang)
+end getProperTranslation
