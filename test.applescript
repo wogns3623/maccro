@@ -6,8 +6,8 @@ on run {searchQuery}
 
   repeat while true
     waitUntilDialogOpen()
-    -- log "Dialog opened." to console
-    log "Current Page: " & checkCurrentPage(tl) to console
+    -- log "Dialog opened."
+    log "Current Page: " & checkCurrentPage(tl)
 
   end repeat
 
