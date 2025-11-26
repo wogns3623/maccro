@@ -12,17 +12,19 @@
 tell application "System Events"
 	set targName to "GlobalProtect"
 	set mainApplication to application process targName
+
+	-- Open the menu bar item
 	set menuBarIcon to menu bar item 1 of menu bar 2 of mainApplication
 	click menuBarIcon
 	
-	set mainWindow to window 1 of mainApplication
-	set usernameField to text field 1 of mainWindow
-	set passwordField to text field 2 of mainWindow
-	set focused of usernameField to true
-	set focused of passwordField to true
+	-- set mainWindow to window 1 of mainApplication
+	-- set usernameField to text field 1 of mainWindow
+	-- set passwordField to text field 2 of mainWindow
+	-- set focused of usernameField to true
+	-- set focused of passwordField to true
 	-- delay 0.1
 	-- keystroke (ASCII character 31) & return
-	delay 2
+	-- delay 2
 	-- keystroke (ASCII character 31)
 	-- delay 2
 	

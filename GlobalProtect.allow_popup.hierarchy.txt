@@ -1,6 +1,6 @@
 - (window 1)
   attributes: [AXFocused, AXFullScreen, AXTitle, AXChildrenInNavigationOrder, AXFrame, AXPosition, AXGrowArea, AXMinimizeButton, AXDocument, AXSections, AXCloseButton, AXMain, AXActivationPoint, AXFullScreenButton, AXProxy, AXDefaultButton, AXMinimized, AXChildren, AXRole, AXParent, AXTitleUIElement, AXCancelButton, AXModal, AXSubrole, AXZoomButton, AXRoleDescription, AXSize, AXToolbarButton]
-  properties: [missing value, missing value, 608, 62, window, missing value, standard window, false, , 360, 105, missing value, , missing value, missing value, AXWindow, missing value, AXStandardWindow, missing value, missing value, standard window]
+  properties: [missing value, missing value, 608, 62, window, missing value, standard window, true, , 360, 105, missing value, , missing value, missing value, AXWindow, missing value, AXStandardWindow, missing value, missing value, standard window]
   - GlobalProtect(static text 1)
     attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
     properties: [missing value, missing value, 623, 77, static text, missing value, text, false, missing value, 93, 20, missing value, , true, missing value, AXStaticText, GlobalProtect, missing value, missing value, GlobalProtect, text]
@@ -25,37 +25,7 @@
   - missing value(static text 6)
     attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
     properties: [missing value, missing value, 783, 67, static text, missing value, text, false, missing value, 10, 16, missing value, , true, missing value, AXStaticText, , missing value, missing value, missing value, text]
-- (window 2)
-  attributes: [AXFocused, AXFullScreen, AXTitle, AXChildrenInNavigationOrder, AXFrame, AXPosition, AXGrowArea, AXMinimizeButton, AXDocument, AXSections, AXCloseButton, AXMain, AXActivationPoint, AXFullScreenButton, AXProxy, AXDefaultButton, AXMinimized, AXChildren, AXRole, AXParent, AXTitleUIElement, AXCancelButton, AXModal, AXSubrole, AXZoomButton, AXRoleDescription, AXSize, AXToolbarButton]
-  properties: [missing value, missing value, 881, 39, window, missing value, system dialog, false, , 260, 334, missing value, , missing value, missing value, AXWindow, missing value, AXSystemDialog, missing value, missing value, system dialog]
-  - missing value(image 1)
-    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 866, 46, image, Panel Background Image Dark, image, false, missing value, 290, 151, missing value, , true, missing value, AXImage, missing value, missing value, missing value, missing value, Panel Background Image Dark]
-  - Palo Alto Networks GlobalProtect(image 2)
-    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 896, 54, image, , image, false, Palo Alto Networks GlobalProtect, 196, 21, missing value, , true, missing value, AXImage, missing value, missing value, missing value, Palo Alto Networks GlobalProtect, ]
-  - Global Protect Options Menu(button 3)
-    attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 1108, 52, button, missing value, button, false, Global Protect Options Menu, 26, 26, missing value, , true, missing value, AXButton, missing value, missing value, missing value, Global Protect Options Menu, button]
-  - missing value(image 4)
-    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 866, 46, image, Panel Background Image Dark, image, false, missing value, 290, 151, missing value, , true, missing value, AXImage, missing value, missing value, missing value, missing value, Panel Background Image Dark]
-  - GlobalProtect Connected(image 5)
-    attributes: [AXEnabled, AXFrame, AXDescription, AXParent, AXSize, AXFocused, AXEmbeddedImageDescription, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 962, 107, image, , image, false, GlobalProtect Connected, 98, 98, missing value, , true, missing value, AXImage, missing value, missing value, missing value, GlobalProtect Connected, ]
-  - Connected(static text 6)
-    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
-    properties: [missing value, missing value, 880, 208, static text, missing value, text, false, missing value, 262, 27, missing value, , true, missing value, AXStaticText, Connected, missing value, missing value, Connected, text]
-  - Best Available Gateway(static text 7)
-    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
-    properties: [missing value, missing value, 910, 266, static text, missing value, text, false, missing value, 202, 40, missing value, , true, missing value, AXStaticText, Best Available Gateway, missing value, missing value, Best Available Gateway, text]
-  - HYU-ExternalGW-General(static text 8)
-    attributes: [AXFocused, AXFrame, AXChildrenInNavigationOrder, AXSelectedText, AXInsertionPointLineNumber, AXPosition, AXNumberOfCharacters, AXEnabled, AXPlaceholderValue, AXSelectedTextRange, AXHelp, AXChildren, AXRole, AXParent, AXTopLevelUIElement, AXVisibleCharacterRange, AXValue, AXSize, AXRoleDescription, AXWindow]
-    properties: [missing value, missing value, 940, 238, static text, missing value, text, false, missing value, 142, 20, HYU-ExternalGW-General, , true, missing value, AXStaticText, HYU-ExternalGW-General, missing value, missing value, HYU-ExternalGW-General, text]
-  - Disconnect(button 9)
-    attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription]
-    properties: [missing value, missing value, 910, 322, button, missing value, button, false, Disconnect, 202, 34, missing value, , true, missing value, AXButton, missing value, missing value, missing value, Disconnect, button]
-- missing value(menu bar 3)
+- missing value(menu bar 2)
   attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXTopLevelUIElement, AXVisibleChildren, AXFrame, AXSelectedChildren, AXTitleUIElement, AXParent, AXPosition, AXIdentifier]
   properties: [missing value, missing value, 0, 0, menu bar, missing value, missing value, missing value, missing value, 1512, 37, missing value, , true, missing value, AXMenuBar, missing value, missing value, missing value, missing value, missing value]
   - Apple(menu bar item 1)
@@ -288,10 +258,10 @@
         properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Copy, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Copy, missing value]
       - Paste(menu item 3)
         attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
-        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Paste, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Paste, missing value]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Paste, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Paste, missing value]
       - Select All(menu item 4)
         attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
-        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Select All, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Select All, missing value]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Select All, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Select All, missing value]
       - missing value(menu item 5)
         attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar]
         properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, , 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, missing value, missing value]
@@ -303,20 +273,20 @@
           properties: [missing value, missing value, 0, 982, menu, missing value, missing value, missing value, missing value, 0, 0, missing value, , true, missing value, AXMenu, missing value, missing value, missing value, AutoFill, missing value]
           - Contact…(menu item 1)
             attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
-            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Contact…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Contact…, missing value]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Contact…, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Contact…, missing value]
           - Passwords…(menu item 2)
             attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
-            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Passwords…, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Passwords…, missing value]
+            properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Passwords…, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Passwords…, missing value]
       - Start Dictation(menu item 7)
         attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
-        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Start Dictation, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Start Dictation, missing value]
+        properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Start Dictation, 0, 0, missing value, , false, missing value, AXMenuItem, missing value, missing value, false, Start Dictation, missing value]
       - Emoji & Symbols(menu item 8)
         attributes: [AXEnabled, AXFrame, AXParent, AXChildren, AXSize, AXMenuItemCmdGlyph, AXRole, AXMenuItemPrimaryUIElement, AXTopLevelUIElement, AXServesAsTitleForUIElements, AXMenuItemCmdModifiers, AXTitle, AXPosition, AXMenuItemCmdVirtualKey, AXMenuItemCmdChar, AXSubrole, AXSelected, AXMenuItemMarkChar, AXIdentifier]
         properties: [missing value, missing value, 0, 982, menu item, missing value, missing value, missing value, Emoji & Symbols, 0, 0, missing value, , true, missing value, AXMenuItem, missing value, missing value, false, Emoji & Symbols, missing value]
-- missing value(menu bar 4)
+- missing value(menu bar 3)
   attributes: [AXRole, AXSize, AXEnabled, AXChildren, AXVisibleChildren, AXRoleDescription, AXFrame, AXFocused, AXParent, AXPosition]
-  properties: [missing value, missing value, 992, 6, menu bar, missing value, menu bar, false, missing value, 38, 24, missing value, , true, missing value, AXMenuBar, missing value, missing value, missing value, missing value, menu bar]
+  properties: [missing value, missing value, -3988, 6, menu bar, missing value, menu bar, false, missing value, 38, 24, missing value, , true, missing value, AXMenuBar, missing value, missing value, missing value, missing value, menu bar]
   - missing value(menu bar item 1)
     attributes: [AXEnabled, AXFrame, AXParent, AXSize, AXChildren, AXFocused, AXRole, AXTopLevelUIElement, AXHelp, AXPosition, AXTitle, AXWindow, AXRoleDescription, AXSelected, AXSubrole]
-    properties: [missing value, missing value, 992, 6, menu bar item, missing value, status menu, false, , 38, 24, Connected, , true, missing value, AXMenuBarItem, missing value, AXMenuExtra, false, missing value, status menu]
+    properties: [missing value, missing value, -3988, 6, menu bar item, missing value, status menu, false, , 38, 24, Connected, , true, missing value, AXMenuBarItem, missing value, AXMenuExtra, false, missing value, status menu]
 
